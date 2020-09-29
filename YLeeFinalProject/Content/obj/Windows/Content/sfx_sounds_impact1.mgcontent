@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/yunho/Documents/2019-3 Fall/Game Prog/Project/FinalProjectTemplate/FinalProjectTemplate/YLeeFinalProject/Content/sfx_sounds_impact1.wav</SourceFile>
+  <SourceTime>2019-12-08T21:26:03.3637829-05:00</SourceTime>
+  <DestFile>C:/Users/yunho/Documents/2019-3 Fall/Game Prog/Project/FinalProjectTemplate/FinalProjectTemplate/YLeeFinalProject/Content/bin/Windows/Content/sfx_sounds_impact1.xnb</DestFile>
+  <DestTime>2019-12-08T21:33:34.5395566-05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-12-08T11:35:54-05:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-12-08T11:35:54-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

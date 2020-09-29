@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/yunho/Documents/2019-3 Fall/Game Prog/Project/FinalProjectTemplate/FinalProjectTemplate/YLeeFinalProject/Content/JuhaniJunkala[Retro Game Music Pack]Ending.wav</SourceFile>
+  <SourceTime>2019-12-08T21:24:28.6065032-05:00</SourceTime>
+  <DestFile>C:/Users/yunho/Documents/2019-3 Fall/Game Prog/Project/FinalProjectTemplate/FinalProjectTemplate/YLeeFinalProject/Content/bin/Windows/Content/JuhaniJunkala[Retro Game Music Pack]Ending.xnb</DestFile>
+  <DestTime>2019-12-08T23:02:58.4330294-05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-12-08T11:35:54-05:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2018-12-08T11:35:54-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/yunho/Documents/2019-3 Fall/Game Prog/Project/FinalProjectTemplate/FinalProjectTemplate/YLeeFinalProject/Content/bin/Windows/Content/JuhaniJunkala[Retro Game Music Pack]Ending.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>
